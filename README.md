@@ -34,7 +34,7 @@ CTFtunnel streamlines the process of setting up, configuring, and managing OpenV
     ```
 2. Run the tool (requires root)
     ```bash
-    sudo python3 ctftunnel.py
+    sudo python3 CTFtunnel.py
     ```
 3. Follow the interactive prompts to:
    - Install and configure OpenVPN
